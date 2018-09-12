@@ -1,0 +1,11 @@
+C:\Workspace\GitHub\aws-lambda\dotnet\LambdaImageCompressor\LambdaImageCompressor\bin\Release\netcoreapp2.1\LambdaImageCompressor.deps.json
+C:\Workspace\GitHub\aws-lambda\dotnet\LambdaImageCompressor\LambdaImageCompressor\bin\Release\netcoreapp2.1\LambdaImageCompressor.runtimeconfig.json
+C:\Workspace\GitHub\aws-lambda\dotnet\LambdaImageCompressor\LambdaImageCompressor\bin\Release\netcoreapp2.1\LambdaImageCompressor.runtimeconfig.dev.json
+C:\Workspace\GitHub\aws-lambda\dotnet\LambdaImageCompressor\LambdaImageCompressor\bin\Release\netcoreapp2.1\LambdaImageCompressor.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\LambdaImageCompressor\LambdaImageCompressor\bin\Release\netcoreapp2.1\LambdaImageCompressor.pdb
+C:\Workspace\GitHub\aws-lambda\dotnet\LambdaImageCompressor\LambdaImageCompressor\obj\Release\netcoreapp2.1\LambdaImageCompressor.csproj.CoreCompileInputs.cache
+C:\Workspace\GitHub\aws-lambda\dotnet\LambdaImageCompressor\LambdaImageCompressor\obj\Release\netcoreapp2.1\LambdaImageCompressor.AssemblyInfoInputs.cache
+C:\Workspace\GitHub\aws-lambda\dotnet\LambdaImageCompressor\LambdaImageCompressor\obj\Release\netcoreapp2.1\LambdaImageCompressor.AssemblyInfo.cs
+C:\Workspace\GitHub\aws-lambda\dotnet\LambdaImageCompressor\LambdaImageCompressor\obj\Release\netcoreapp2.1\LambdaImageCompressor.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\LambdaImageCompressor\LambdaImageCompressor\obj\Release\netcoreapp2.1\LambdaImageCompressor.pdb
+C:\Workspace\GitHub\aws-lambda\dotnet\LambdaImageCompressor\LambdaImageCompressor\obj\Release\netcoreapp2.1\LambdaImageCompressor.csprojResolveAssemblyReference.cache
