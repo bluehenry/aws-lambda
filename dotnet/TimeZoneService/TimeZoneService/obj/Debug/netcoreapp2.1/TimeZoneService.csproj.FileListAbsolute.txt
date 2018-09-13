@@ -1,0 +1,10 @@
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\bin\Debug\netcoreapp2.1\TimeZoneService.deps.json
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\bin\Debug\netcoreapp2.1\TimeZoneService.runtimeconfig.json
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\bin\Debug\netcoreapp2.1\TimeZoneService.runtimeconfig.dev.json
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\bin\Debug\netcoreapp2.1\TimeZoneService.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\bin\Debug\netcoreapp2.1\TimeZoneService.pdb
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\obj\Debug\netcoreapp2.1\TimeZoneService.csproj.CoreCompileInputs.cache
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\obj\Debug\netcoreapp2.1\TimeZoneService.AssemblyInfoInputs.cache
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\obj\Debug\netcoreapp2.1\TimeZoneService.AssemblyInfo.cs
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\obj\Debug\netcoreapp2.1\TimeZoneService.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\obj\Debug\netcoreapp2.1\TimeZoneService.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3Service", "S3Service\S3Service.csproj", "{163DB5CD-892B-4BDE-9ADE-19135AB82877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163DB5CD-892B-4BDE-9ADE-19135AB82877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163DB5CD-892B-4BDE-9ADE-19135AB82877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163DB5CD-892B-4BDE-9ADE-19135AB82877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163DB5CD-892B-4BDE-9ADE-19135AB82877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16B6E24B-C8C0-479D-B6C6-36C09DCC21C1}
+	EndGlobalSection
+EndGlobal

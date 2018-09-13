@@ -1,0 +1,17 @@
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\obj\Debug\netcoreapp2.1\TimeZoneService.Tests.csprojResolveAssemblyReference.cache
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\obj\Debug\netcoreapp2.1\TimeZoneService.Tests.csproj.CoreCompileInputs.cache
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\obj\Debug\netcoreapp2.1\TimeZoneService.Tests.AssemblyInfoInputs.cache
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\obj\Debug\netcoreapp2.1\TimeZoneService.Tests.AssemblyInfo.cs
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\bin\Debug\netcoreapp2.1\TimeZoneService.Tests.deps.json
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\bin\Debug\netcoreapp2.1\TimeZoneService.Tests.runtimeconfig.json
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\bin\Debug\netcoreapp2.1\TimeZoneService.Tests.runtimeconfig.dev.json
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\bin\Debug\netcoreapp2.1\TimeZoneService.Tests.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\bin\Debug\netcoreapp2.1\TimeZoneService.Tests.pdb
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\bin\Debug\netcoreapp2.1\TimeZoneService.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\bin\Debug\netcoreapp2.1\TimeZoneService.pdb
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\obj\Debug\netcoreapp2.1\TimeZoneService.Tests.csproj.CopyComplete
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\obj\Debug\netcoreapp2.1\TimeZoneService.Tests.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService.Tests\obj\Debug\netcoreapp2.1\TimeZoneService.Tests.pdb

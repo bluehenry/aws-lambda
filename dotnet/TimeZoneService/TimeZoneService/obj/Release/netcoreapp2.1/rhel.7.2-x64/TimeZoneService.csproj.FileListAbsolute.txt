@@ -1,0 +1,11 @@
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\bin\Release\netcoreapp2.1\rhel.7.2-x64\TimeZoneService.deps.json
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\bin\Release\netcoreapp2.1\rhel.7.2-x64\TimeZoneService.runtimeconfig.json
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\bin\Release\netcoreapp2.1\rhel.7.2-x64\TimeZoneService.runtimeconfig.dev.json
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\bin\Release\netcoreapp2.1\rhel.7.2-x64\TimeZoneService.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\bin\Release\netcoreapp2.1\rhel.7.2-x64\TimeZoneService.pdb
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\obj\Release\netcoreapp2.1\rhel.7.2-x64\TimeZoneService.csprojAssemblyReference.cache
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\obj\Release\netcoreapp2.1\rhel.7.2-x64\TimeZoneService.csproj.CoreCompileInputs.cache
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\obj\Release\netcoreapp2.1\rhel.7.2-x64\TimeZoneService.AssemblyInfoInputs.cache
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\obj\Release\netcoreapp2.1\rhel.7.2-x64\TimeZoneService.AssemblyInfo.cs
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\obj\Release\netcoreapp2.1\rhel.7.2-x64\TimeZoneService.dll
+C:\Workspace\GitHub\aws-lambda\dotnet\TimeZoneService\TimeZoneService\obj\Release\netcoreapp2.1\rhel.7.2-x64\TimeZoneService.pdb
